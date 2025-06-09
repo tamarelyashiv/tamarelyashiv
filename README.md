@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Tamar Elyashiv
 
   ## 💡About Me
-   I'm a **responsible Full Stack Developer** with a sharp mind, quick learning ability, and strong attention to detail.  
+   I'm a responsible Full Stack Developer with a sharp mind, quick learning ability, and strong attention to detail.  
    I thrive in self-directed learning environments, collaborate effectively in teams, and perform well under pressure.  
   I have excellent interpersonal skills, a strong work ethic, punctuality, high motivation, and a strong willingness to invest and grow.
 ## 🛠️ Languages and Tools
