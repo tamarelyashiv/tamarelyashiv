@@ -1,7 +1,5 @@
 
-#👋 Hi, I’m Tamar Elyashiv
-
-
+# 👋 Hi, I’m Tamar Elyashiv
 
   ## ✨About Me
     I'm FullStack Developer 
