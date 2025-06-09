@@ -34,5 +34,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Blazor.png" height="40"/>
+<img src="assets/icons/blazor.png" height="40"/>
 </p>
