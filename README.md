@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Blazor.png" height="50"/>
+  <img src="https://github.com/tamarelyashiv/tamarelyashiv/raw/main/assets/blazor.png" height="50"/>
 
 </p>
 ##  📫 Contact Me
