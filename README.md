@@ -29,3 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
 </p>
+## 📫 Contact Me
+
+- 📧 **Email**:tamar29455@gmail.com 
